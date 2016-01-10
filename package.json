@@ -1,0 +1,30 @@
+{
+  "name": "Practice",
+  "version": "1.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "ejs": "^0.8.8",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+  
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santoshsibyala/Google-Maps--Practice.git"
+  },
+  "author": "santoshsibyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshsibyala/Google-Maps--Practice/issues"
+  },
+  "homepage": "https://github.com/santoshsibyala/Google-Maps--Practice"
+}
